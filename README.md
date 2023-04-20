@@ -30,8 +30,8 @@ To use these web elements in your project, simply clone the repository or downlo
 <pre>
   <code>
 git clone https://github.com/your_username/web-elements-collection.git
-<pre>
-  <code>
+</pre>
+  </code>
   
 Alternatively, download the ZIP file from here and extract the contents.
 
