@@ -16,14 +16,14 @@ A creative and modern collection of web elements, including effects, buttons, an
 <br>
 <b>Demo</b>
 Experience the interactive live demo of these web elements at https://oz-1988.github.io/koda_elements/.<br>
-
+<br>
 <b>Features</b><br>
 <li>Stunning web elements for different use-cases</li>
 <li>Fully responsive and mobile-friendly</li>
 <li>Easy to integrate into your projects</li>
 <li>Highly customizable</li>
 <li>Lightweight and performant</li>
-<li>No dependencies</li>
+<li>No dependencies</li><br>
 
 <b>Installation</b><br>
 To use these web elements in your project, simply clone the repository or download the latest release:
