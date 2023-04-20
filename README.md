@@ -27,11 +27,7 @@ No dependencies
 Installation
 To use these web elements in your project, simply clone the repository or download the latest release:
 
-<pre>
-  <code>
-    git clone https://github.com/your_username/web-elements-collection.git
-  </code>
-</pre>
+<pre><code>git clone https://github.com/your_username/web-elements-collection.git</code></pre>
   
 Alternatively, download the ZIP file from here and extract the contents.
 
