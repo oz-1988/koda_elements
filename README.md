@@ -1,7 +1,6 @@
 # koda_elements
 Web Elements
 Web Elements Collection
-Web Elements Banner
 
 A creative and modern collection of web elements, including effects, buttons, and other interactive components crafted using HTML, CSS, and JavaScript. This repository offers a variety of reusable components that can be easily integrated into your projects, enhancing their visual appearance and user experience.
 
@@ -17,7 +16,7 @@ License
 Demo
 Experience the interactive live demo of these web elements at https://oz-1988.github.io/koda_elements/.
 
-Features<br>
+<b>Features</b><br>
 Stunning web elements for different use-cases
 Fully responsive and mobile-friendly
 Easy to integrate into your projects
